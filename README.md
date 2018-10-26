@@ -37,6 +37,8 @@
 1. [Engine Yard](https://www.engineyard.com/blog)
 2. [Justin Weiss](https://www.justinweiss.com/)
 3. [Today I Learned](https://til.hashrocket.com/)
+4. [CodeShip](https://blog.codeship.com/)
+5. [Thoughtbot](https://robots.thoughtbot.com/)
 
 ## Tutorials & Guides
 
