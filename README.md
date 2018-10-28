@@ -15,6 +15,10 @@
 3. [Drifting Ruby](https://www.driftingruby.com/)
 4. [RailsCasts](http://railscasts.com/)
 
+## Official Rails Resources :bullettrain_front:
+
+1. [Rails API](api.rubyonrails.org)
+
 ## Podcasts :microphone:
 
 1. [awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
@@ -45,6 +49,8 @@
 1. [To-do List API w/ GraphQL & Rails 5](https://www.codementor.io/karanjaeddy/build-a-to-do-list-api-with-graphql-api-rails-5-part-1-irjt1e7jm)
 2. [S3 w/ Paperclip](https://devcenter.heroku.com/articles/paperclip-s3)
 3. [Rails Girls Guides](http://guides.railsgirls.com/)
+4. [Rails 5.2 w/ Bootstrap & Webpacker](https://gist.github.com/andyyou/834e82f5723fec9d2dc021fb7b819517)
+5. [Bootstrap flash messages](https://coderwall.com/p/jzofog/ruby-on-rails-flash-messages-with-bootstrap)
 
 ## Random Links :arrows_counterclockwise:
 
