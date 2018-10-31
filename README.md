@@ -26,11 +26,13 @@
 3. [ruby-testing-podcast](http://www.rubytestingpodcast.com/)
 4. [Remote Ruby](https://remoteruby.transistor.fm/)
 
-## Ebooks :book:
+## Books & Ebooks :book:
 
 1. [Engine Yard](https://info.engineyard.com/)
 2. [progit](https://github.com/progit/progit)
 3. [Ruby on Rails Tutorial (Rails 5)](https://www.railstutorial.org/)
+4. [99 Bottles of OOP](https://www.sandimetz.com/products/)
+5. [Practical Object-Oriented Design](https://www.sandimetz.com/products/)
 
 ## Case Studies :microscope:
 
@@ -43,6 +45,8 @@
 3. [Today I Learned](https://til.hashrocket.com/)
 4. [CodeShip](https://blog.codeship.com/)
 5. [Thoughtbot](https://robots.thoughtbot.com/)
+6. [Daniel P. Clark - Codeship](https://blog.codeship.com/author/danielclark/)
+7. [Sandi Metz](https://www.sandimetz.com/blog/)
 
 ## Tutorials & Guides :books:
 
@@ -60,6 +64,7 @@
 4. [awesome-rails-gem](https://github.com/hothero/awesome-rails-gem)
 5. [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks)
 6. [The Ruby Toolbox](https://www.ruby-toolbox.com/)
+7. [rails-learning](https://github.com/sagarmrey/rails-learning)
 
 ## Common Errors :no_entry:
 
@@ -95,7 +100,7 @@
 6. [rails-react patterns](https://github.com/planningcenter/react-patterns)
 7. [fast-ruby](https://github.com/JuanitoFatas/fast-ruby)
 
-## Example Applications :gift:
+## Example Applications & Composers :gift:
 
 1. [Twitter clone w/ Rails 5](https://github.com/toshimaru/RailsTwitterClone)
 2. [hero-rails](https://github.com/frontted/hero-rails)
@@ -109,6 +114,7 @@
 10. [YooTewb](https://github.com/jalexy12/YooTewb)
 11. [railscollab](https://github.com/jamesu/railscollab)
 12. [projekt](https://github.com/justalever/projekt)
+13. [jumpstart](https://github.com/excid3/jumpstart)
 
 ## Security :cop:
 
@@ -133,6 +139,7 @@
 7. [kss](https://github.com/kneath/kss)
 8. [xray-rails](https://github.com/brentd/xray-rails)
 9. [font-awesome-rails](https://github.com/bokmann/font-awesome-rails)
+10. [data-confirm-modal](https://github.com/ifad/data-confirm-modal)
 
 ## File Management
 
@@ -153,9 +160,10 @@
 4. [Omniauth-dribbble](https://github.com/railsware/omniauth-dribbble)
 5. [petergate](https://github.com/elorest/petergate)
 6. [devise_invitable](https://github.com/scambra/devise_invitable)
-7. [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper)
-8. [ruby-saml](https://github.com/onelogin/ruby-saml)
-9. [pundit](https://github.com/varvet/pundit)
+7. [devise_masquerade](https://github.com/oivoodoo/devise_masquerade) 
+8. [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper)
+9. [ruby-saml](https://github.com/onelogin/ruby-saml)
+10. [pundit](https://github.com/varvet/pundit)
 
 ## Documentation
 
@@ -192,6 +200,7 @@
 ## Jobs
 
 1. [sidekiq-scheduler](https://github.com/moove-it/sidekiq-scheduler)
+2. [whenever](https://github.com/javan/whenever)
 
 ## Structs
 
@@ -314,6 +323,7 @@
 
 1. [apartment](https://github.com/influitive/apartment)
 2. [milia](https://github.com/jekuno/milia)
+3. [activerecord-multi-tenant](https://github.com/citusdata/activerecord-multi-tenant)
 
 ## Analytics
 
@@ -331,3 +341,23 @@
 ## Payment
 
 1. [stripe](https://github.com/stripe/stripe-ruby)
+
+## Adobe
+
+1. [psd.rb](https://github.com/layervault/psd.rb)
+
+## AI & ML
+
+1. [ruby-tesseract-ocr](https://github.com/meh/ruby-tesseract-ocr)
+
+## SEO
+
+1. [sitemap_generator](https://github.com/kjvarga/sitemap_generator)
+
+## Decorators & Presenters
+
+1. [name_of_person](https://github.com/basecamp/name_of_person)
+
+## URL's & Linking
+
+1. [friendly_id](https://github.com/norman/friendly_id)
