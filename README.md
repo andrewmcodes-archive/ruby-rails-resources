@@ -1,6 +1,70 @@
 # Ruby & Ruby on Rails Resources :gem:
 
-## Free Courses :notebook:
+## Table of Contents
+
+- [Ruby & Ruby on Rails Resources :gem:](#ruby--ruby-on-rails-resources-gem)
+  - [Table of Contents](#table-of-contents)
+  - [:tv: Free Courses](#tv-free-courses)
+  - [:tv: Rails Screencasts](#tv-rails-screencasts)
+  - [:bullettrain_front: Official Rails Resources](#bullettrainfront-official-rails-resources)
+  - [:microphone: Podcasts](#microphone-podcasts)
+  - [:book: Books & Ebooks](#book-books--ebooks)
+  - [:microscope: Case Studies](#microscope-case-studies)
+  - [:computer: Blogs](#computer-blogs)
+  - [:books: Tutorials & Guides](#books-tutorials--guides)
+  - [:arrows_counterclockwise: Random Links](#arrowscounterclockwise-random-links)
+  - [:no_entry: Common Errors](#noentry-common-errors)
+  - [:runner: Code Practice](#runner-code-practice)
+  - [:cl: Version Managers](#cl-version-managers)
+  - [:tv: Youtube Videos & Series](#tv-youtube-videos--series)
+  - [:nail_care: Style Guides](#nailcare-style-guides)
+  - [:gift: Example Applications & Composers](#gift-example-applications--composers)
+  - [:cop: Security](#cop-security)
+- [:gem: Gems](#gem-gems)
+  - [CMS](#cms)
+  - [CSS/Styling/UI](#cssstylingui)
+  - [File Management](#file-management)
+  - [Javascript Related](#javascript-related)
+  - [Authentication & Authorization](#authentication--authorization)
+  - [Documentation](#documentation)
+  - [Editor Specific & Intellisense](#editor-specific--intellisense)
+  - [Web Crawling](#web-crawling)
+  - [CSV](#csv)
+  - [Profiling, Benchmarks, & Debugging](#profiling-benchmarks--debugging)
+  - [Jobs](#jobs)
+  - [Structs](#structs)
+  - [Devops](#devops)
+  - [Shell Scripts/Command Line Tools](#shell-scriptscommand-line-tools)
+  - [Notifications](#notifications)
+  - [Integrations](#integrations)
+  - [Forms](#forms)
+  - [Code Quality](#code-quality)
+  - [Locale/Accessibility](#localeaccessibility)
+  - [Database](#database)
+  - [Templating Languages & Frontend](#templating-languages--frontend)
+  - [Git & Github](#git--github)
+  - [Email](#email)
+  - [Hacking](#hacking)
+  - [Pagination](#pagination)
+  - [Automation](#automation)
+  - [Random](#random)
+  - [Testing](#testing)
+  - [Security](#security)
+  - [Date & Time](#date--time)
+  - [Feature Flags](#feature-flags)
+  - [Multitenant](#multitenant)
+  - [Analytics](#analytics)
+  - [Secrets & Keys](#secrets--keys)
+  - [Search & Filter](#search--filter)
+  - [Payment](#payment)
+  - [Adobe](#adobe)
+  - [AI & ML](#ai--ml)
+  - [DSL & API](#dsl--api)
+  - [SEO](#seo)
+  - [Decorators & Presenters](#decorators--presenters)
+  - [URL's & Linking](#urls--linking)
+
+## :tv: Free Courses
 
 1. [Upcase](https://thoughtbot.com/upcase)
 2. [How to build a ruby gem](https://brandonhilkert.com/courses/build-a-ruby-gem/?utm_source=course-gem&utm_medium=email&utm_campaign=lesson5)
@@ -8,25 +72,25 @@
 4. [Pluralsight](https://www.pluralsight.com/search?q=ruby)
 5. [Ruby Koans](http://rubykoans.com/)
 
-## Rails Screencasts :tv:
+## :tv: Rails Screencasts
 
 1. [Go Rails](https://gorails.com/)
 2. [RubyTapas](https://www.rubytapas.com/)
 3. [Drifting Ruby](https://www.driftingruby.com/)
 4. [RailsCasts](http://railscasts.com/)
 
-## Official Rails Resources :bullettrain_front:
+## :bullettrain_front: Official Rails Resources
 
 1. [Rails API](api.rubyonrails.org)
 
-## Podcasts :microphone:
+## :microphone: Podcasts
 
 1. [awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
 2. [ruby-rogues](https://devchat.tv/ruby-rogues/)
 3. [ruby-testing-podcast](http://www.rubytestingpodcast.com/)
 4. [Remote Ruby](https://remoteruby.transistor.fm/)
 
-## Books & Ebooks :book:
+## :book: Books & Ebooks
 
 1. [Engine Yard](https://info.engineyard.com/)
 2. [progit](https://github.com/progit/progit)
@@ -34,11 +98,11 @@
 4. [99 Bottles of OOP](https://www.sandimetz.com/products/)
 5. [Practical Object-Oriented Design](https://www.sandimetz.com/products/)
 
-## Case Studies :microscope:
+## :microscope: Case Studies
 
 1. [Engine Yard](https://www.engineyard.com/customers/case-studies)
 
-## Blogs :computer:
+## :computer: Blogs
 
 1. [Engine Yard](https://www.engineyard.com/blog)
 2. [Justin Weiss](https://www.justinweiss.com/)
@@ -48,7 +112,7 @@
 6. [Daniel P. Clark - Codeship](https://blog.codeship.com/author/danielclark/)
 7. [Sandi Metz](https://www.sandimetz.com/blog/)
 
-## Tutorials & Guides :books:
+## :books: Tutorials & Guides
 
 1. [To-do List API w/ GraphQL & Rails 5](https://www.codementor.io/karanjaeddy/build-a-to-do-list-api-with-graphql-api-rails-5-part-1-irjt1e7jm)
 2. [S3 w/ Paperclip](https://devcenter.heroku.com/articles/paperclip-s3)
@@ -56,7 +120,7 @@
 4. [Rails 5.2 w/ Bootstrap & Webpacker](https://gist.github.com/andyyou/834e82f5723fec9d2dc021fb7b819517)
 5. [Bootstrap flash messages](https://coderwall.com/p/jzofog/ruby-on-rails-flash-messages-with-bootstrap)
 
-## Random Links :arrows_counterclockwise:
+## :arrows_counterclockwise: Random Links
 
 1. [Rubular](http://rubular.com/)
 2. [awesome-ruby](https://github.com/markets/awesome-ruby)
@@ -66,22 +130,22 @@
 6. [The Ruby Toolbox](https://www.ruby-toolbox.com/)
 7. [rails-learning](https://github.com/sagarmrey/rails-learning)
 
-## Common Errors :no_entry:
+## :no_entry: Common Errors
 
 1. [Rubygems error](https://mycyberuniverse.com/web/how-fix-user-account-isnt-allowed-install-system-rubygems.html)
 2. [Errno::ENOENT: No such file or director @rb_sysopen](https://www.youtube.com/watch?v=WqrcPT7qG4I)
 
-## Code Practice :runner:
+## :runner: Code Practice
 
 1. [Exercism](https://exercism.io/)
 
-## Version Managers :cl:
+## :cl: Version Managers
 
 1. [RVM](https://rvm.io/rvm/install)
 2. [Rbenv](http://rbenv.org/)
 3. [Truffleruby](https://github.com/oracle/truffleruby)
 
-## Youtube Videos & Series :tv:
+## :tv: Youtube Videos & Series
 
 1. [Blog in Rails 5 - open-labs](https://www.youtube.com/watch?v=i2x995hm8r8)
 2. [Ruby Thursday](https://www.youtube.com/channel/UCgbzly83EZoSVjBIf9sNw5A)
@@ -90,7 +154,7 @@
 5. [Web-Crunch](https://www.youtube.com/channel/UCzePijHDYnVHIXW6HYTL4dg)
 6. [Mackenzie Child](https://www.youtube.com/user/mackenziechild)
 
-## Style Guides :nail_care:
+## :nail_care: Style Guides
 
 1. [Rubocop Ruby Style Guide](https://github.com/rubocop-hq/ruby-style-guide)
 2. [Rubocop Rails Style Guide](https://github.com/rubocop-hq/rails-style-guide)
@@ -100,7 +164,7 @@
 6. [rails-react patterns](https://github.com/planningcenter/react-patterns)
 7. [fast-ruby](https://github.com/JuanitoFatas/fast-ruby)
 
-## Example Applications & Composers :gift:
+## :gift: Example Applications & Composers
 
 1. [Twitter clone w/ Rails 5](https://github.com/toshimaru/RailsTwitterClone)
 2. [hero-rails](https://github.com/frontted/hero-rails)
@@ -116,12 +180,12 @@
 12. [projekt](https://github.com/justalever/projekt)
 13. [jumpstart](https://github.com/excid3/jumpstart)
 
-## Security :cop:
+## :cop: Security
 
 1. [rails-security-checklist](https://github.com/eliotsykes/rails-security-checklist)
 2. [zen-rails-security-checklist](https://github.com/brunofacca/zen-rails-security-checklist)
 
-# Gems :gem:
+# :gem: Gems
 
 ## CMS
 
@@ -160,7 +224,7 @@
 4. [Omniauth-dribbble](https://github.com/railsware/omniauth-dribbble)
 5. [petergate](https://github.com/elorest/petergate)
 6. [devise_invitable](https://github.com/scambra/devise_invitable)
-7. [devise_masquerade](https://github.com/oivoodoo/devise_masquerade) 
+7. [devise_masquerade](https://github.com/oivoodoo/devise_masquerade)
 8. [doorkeeper](https://github.com/doorkeeper-gem/doorkeeper)
 9. [ruby-saml](https://github.com/onelogin/ruby-saml)
 10. [pundit](https://github.com/varvet/pundit)
@@ -355,8 +419,6 @@
 ## DSL & API
 
 1. [retriable](https://github.com/kamui/retriable)
-
-
 
 ## SEO
 
