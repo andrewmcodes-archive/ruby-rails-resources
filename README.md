@@ -268,12 +268,14 @@
 5. [haml-rails](https://github.com/indirect/haml-rails)
 6. [haml](https://github.com/haml/haml)
 
-## Github related
+## Git & Github
 
 1. [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
 2. [styleguide-git-commit-message](https://github.com/slashsbin/styleguide-git-commit-message)
 3. [octobox](https://github.com/octobox/octobox)
 4. [git-god](https://github.com/gorosgobe/git-god)
+5. [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator)
+6. [octokit.rb](https://github.com/octokit/octokit.rb)
 
 ## Email
 
@@ -349,6 +351,12 @@
 ## AI & ML
 
 1. [ruby-tesseract-ocr](https://github.com/meh/ruby-tesseract-ocr)
+
+## DSL & API
+
+1. [retriable](https://github.com/kamui/retriable)
+
+
 
 ## SEO
 
