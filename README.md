@@ -20,6 +20,7 @@
   - [:nail_care: Style Guides](#nail_care-style-guides)
   - [:gift: Example Applications & Composers](#gift-example-applications--composers)
   - [:cop: Security](#cop-security)
+  - [:gem: Gems](#gem-gems)
 
 ## :tv: Free Courses
 
@@ -141,3 +142,7 @@
 
 1. [rails-security-checklist](https://github.com/eliotsykes/rails-security-checklist)
 2. [zen-rails-security-checklist](https://github.com/brunofacca/zen-rails-security-checklist)
+
+## :gem: Gems
+
+1. [Gems](https://github.com/andrewmcodes/ruby-rails-resources/blob/master/GEMS.md)
