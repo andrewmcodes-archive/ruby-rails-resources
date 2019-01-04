@@ -57,6 +57,7 @@
 ## :microscope: Case Studies
 
 1. [Engine Yard](https://www.engineyard.com/customers/case-studies)
+2. [Railsware](https://railsware.com/case-studies/)
 
 ## :computer: Blogs
 
