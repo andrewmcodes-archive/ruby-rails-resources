@@ -139,6 +139,7 @@
 
 1. [rails-security-checklist](https://github.com/eliotsykes/rails-security-checklist)
 2. [zen-rails-security-checklist](https://github.com/brunofacca/zen-rails-security-checklist)
+3. [rails-sqli](https://rails-sqli.org/)
 
 ## :gem: Gems
 
