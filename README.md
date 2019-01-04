@@ -30,9 +30,8 @@
 ## :tv: Rails Screencasts
 
 1. [Go Rails](https://gorails.com/)
-2. [RubyTapas](https://www.rubytapas.com/)
-3. [Drifting Ruby](https://www.driftingruby.com/)
-4. [RailsCasts](http://railscasts.com/)
+2. [Drifting Ruby](https://www.driftingruby.com/)
+3. [RailsCasts](http://railscasts.com/)
 
 ## :bullettrain_front: Official Rails Resources
 
