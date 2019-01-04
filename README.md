@@ -1,9 +1,6 @@
 # Ruby & Ruby on Rails Resources :gem:
 
-## Table of Contents
-
 - [Ruby & Ruby on Rails Resources :gem:](#ruby--ruby-on-rails-resources-gem)
-  - [Table of Contents](#table-of-contents)
   - [:tv: Free Courses](#tv-free-courses)
   - [:tv: Rails Screencasts](#tv-rails-screencasts)
   - [:bullettrain_front: Official Rails Resources](#bullettrain_front-official-rails-resources)
