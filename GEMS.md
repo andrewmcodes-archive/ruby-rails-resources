@@ -1,5 +1,6 @@
 
 - [:gem: Gems](#gem-gems)
+	- [CLI](#cli)
 	- [CMS](#cms)
 	- [CSS/Styling/UI](#cssstylingui)
 	- [File Management](#file-management)
@@ -44,6 +45,13 @@
 	- [URL's & Linking](#urls--linking)
 
 # :gem: Gems
+
+## CLI
+
+1. [highline](https://github.com/JEG2/highline)
+2. [slop](https://github.com/leejarvis/slop)
+3. [awesome-print](https://github.com/awesome-print/awesome_print)
+4. [tty](https://github.com/piotrmurach/tty)
 
 ## CMS
 

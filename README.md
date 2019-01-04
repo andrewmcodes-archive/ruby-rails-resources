@@ -52,6 +52,7 @@
 3. [Ruby on Rails Tutorial (Rails 5)](https://www.railstutorial.org/)
 4. [99 Bottles of OOP](https://www.sandimetz.com/products/)
 5. [Practical Object-Oriented Design](https://www.sandimetz.com/products/)
+6. [Build Awesome Command-Line Applications in Ruby](https://the-eye.eu/public/Books/IT%20Various/build_awesome_command-line_applications_in_ruby.pdf)
 
 ## :microscope: Case Studies
 
@@ -73,7 +74,9 @@
 2. [S3 w/ Paperclip](https://devcenter.heroku.com/articles/paperclip-s3)
 3. [Rails Girls Guides](http://guides.railsgirls.com/)
 4. [Rails 5.2 w/ Bootstrap & Webpacker](https://gist.github.com/andyyou/834e82f5723fec9d2dc021fb7b819517)
-5. [Bootstrap flash messages](https://coderwall.com/p/jzofog/ruby-on-rails-flash-messages-with-bootstrap)
+5. [Bootstrap flash messages](https://coderwall.com/p/jzofog/ruby-on-rails-flash-messages-with-bootstrap)\
+6. [Creating Powerful Command Line Tools in Ruby](https://blog.codeship.com/creating-powerful-command-line-tools-in-ruby/)
+7. [Introduction to Thor](https://www.sitepoint.com/introduction-thor/)
 
 ## :arrows_counterclockwise: Random Links
 
