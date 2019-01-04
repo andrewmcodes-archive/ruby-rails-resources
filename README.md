@@ -30,13 +30,12 @@
 ## :tv: Rails Screencasts
 
 1. [Go Rails](https://gorails.com/)
-2. [RubyTapas](https://www.rubytapas.com/)
-3. [Drifting Ruby](https://www.driftingruby.com/)
-4. [RailsCasts](http://railscasts.com/)
+2. [Drifting Ruby](https://www.driftingruby.com/)
+3. [RailsCasts](http://railscasts.com/)
 
 ## :bullettrain_front: Official Rails Resources
 
-1. [Rails API](api.rubyonrails.org)
+1. [Rails API](https://api.rubyonrails.org/)
 
 ## :microphone: Podcasts
 
@@ -57,6 +56,7 @@
 ## :microscope: Case Studies
 
 1. [Engine Yard](https://www.engineyard.com/customers/case-studies)
+2. [Railsware](https://railsware.com/case-studies/)
 
 ## :computer: Blogs
 
