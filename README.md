@@ -1,23 +1,23 @@
 # Ruby & Ruby on Rails Resources :gem:
 
-- [Ruby & Ruby on Rails Resources :gem:](#ruby--ruby-on-rails-resources-gem)
-  - [:tv: Free Courses](#tv-free-courses)
-  - [:tv: Rails Screencasts](#tv-rails-screencasts)
-  - [:bullettrain_front: Official Rails Resources](#bullettrain_front-official-rails-resources)
-  - [:microphone: Podcasts](#microphone-podcasts)
-  - [:book: Books & Ebooks](#book-books--ebooks)
-  - [:microscope: Case Studies](#microscope-case-studies)
-  - [:computer: Blogs](#computer-blogs)
-  - [:books: Tutorials & Guides](#books-tutorials--guides)
-  - [:arrows_counterclockwise: Random Links](#arrows_counterclockwise-random-links)
-  - [:no_entry: Common Errors](#no_entry-common-errors)
-  - [:runner: Code Practice](#runner-code-practice)
-  - [:cl: Version Managers](#cl-version-managers)
-  - [:tv: Youtube Videos & Series](#tv-youtube-videos--series)
-  - [:nail_care: Style Guides](#nail_care-style-guides)
-  - [:gift: Example Applications & Composers](#gift-example-applications--composers)
-  - [:cop: Security](#cop-security)
-  - [:gem: Gems](#gem-gems)
+- [Ruby & Ruby on Rails Resources :gem:](#Ruby--Ruby-on-Rails-Resources-gem)
+  - [:tv: Free Courses](#tv-Free-Courses)
+  - [:tv: Rails Screencasts](#tv-Rails-Screencasts)
+  - [:bullettrain_front: Official Rails Resources](#bullettrain_front-Official-Rails-Resources)
+  - [:microphone: Podcasts](#microphone-Podcasts)
+  - [:book: Books & Ebooks](#book-Books--Ebooks)
+  - [:microscope: Case Studies](#microscope-Case-Studies)
+  - [:computer: Blogs](#computer-Blogs)
+  - [:books: Tutorials & Guides](#books-Tutorials--Guides)
+  - [:arrows_counterclockwise: Random Links](#arrows_counterclockwise-Random-Links)
+  - [:no_entry: Common Errors](#no_entry-Common-Errors)
+  - [:runner: Code Practice](#runner-Code-Practice)
+  - [:cl: Version Managers](#cl-Version-Managers)
+  - [:tv: Youtube Videos & Series](#tv-Youtube-Videos--Series)
+  - [:nail_care: Style Guides](#nail_care-Style-Guides)
+  - [:gift: Example Applications & Composers](#gift-Example-Applications--Composers)
+  - [:cop: Security](#cop-Security)
+  - [:gem: Gems](#gem-Gems)
 
 ## :tv: Free Courses
 
@@ -39,10 +39,13 @@
 
 ## :microphone: Podcasts
 
-1. [awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
-2. [ruby-rogues](https://devchat.tv/ruby-rogues/)
-3. [ruby-testing-podcast](http://www.rubytestingpodcast.com/)
+1. [Ruby Rogues](https://devchat.tv/ruby-rogues/)
+2. [awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts)
+3. [The Ruby Testing Podcast](https://www.codewithjason.com/ruby-testing-podcast/)
 4. [Remote Ruby](https://remoteruby.transistor.fm/)
+5. [The Bike Shed](http://bikeshed.fm)
+6. [Rails with Jason](https://www.codewithjason.com/rails-with-jason-podcast/)
+7. [Ruby on Rails Podcast by 5by5](http://5by5.tv/rubyonrails)
 
 ## :book: Books & Ebooks
 
